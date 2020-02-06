@@ -1,0 +1,23 @@
+{
+  "name": "obs-controller-using-nodejs",
+  "version": "1.0.0",
+  "description": "Controlar OBS de manera remota mediante el uso de una base de datos y ajax.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tataicapo/OBS-Controller-using-nodeJS.git"
+  },
+  "author": "Taiel Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tataicapo/OBS-Controller-using-nodeJS/issues"
+  },
+  "homepage": "https://github.com/tataicapo/OBS-Controller-using-nodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^8.9.2",
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7"
+  }
+}
